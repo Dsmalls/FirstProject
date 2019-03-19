@@ -1,0 +1,13 @@
+print("Hola World")
+print("Bonjour World")
+
+print("=======================================")
+print("    /||")
+print("   / ||")
+print("  /  ||")
+print(" /   ||")
+print("/____||")
+print("|    ||")
+print("|    ||")
+print("|    ||")
+print("|____||")
